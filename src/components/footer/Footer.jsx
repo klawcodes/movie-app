@@ -21,7 +21,7 @@ const Footer = () => {
           <div className="footer__content__menu">
             <Link to="/">Home</Link>
             <Link to="/">Contact us</Link>
-            <Link to="/">Mau nonton film gratis?</Link>
+            <Link to="/">Terms and Conditions</Link>
             <Link to="/">About Us</Link>
           </div>
           <div className="footer__content__menu">
